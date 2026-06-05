@@ -1,7 +1,7 @@
 # Hi, I’m Suryansh Dixit 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/suryansh" target="_blank">
+  <a href="[https://linkedin.com/in/suryansh](https://www.linkedin.com/in/suryansh-dixit-b0069227b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:suryanshdixit79@gmail.com">
