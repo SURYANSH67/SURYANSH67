@@ -148,7 +148,7 @@
 - 🎓 **NPTEL Elite Certification**: Computer Science Discipline — *IIT Kharagpur*
 - 🤖 **Generative AI Essentials & Cybersecurity**: Industry Ready — *TCS iON*
 - 💻 **Career Essentials in Software Development**: *Microsoft & LinkedIn*
-- 🥇 **Hackathon Winner (1st Rank)**: Awarded for rapid prototyping of civic & AI solutions
+
 
 ---
 
